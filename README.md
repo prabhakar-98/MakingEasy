@@ -1,6 +1,6 @@
 
 # MakingEasy
-MakingEasy Food easy is an app  Food easy  that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
+MakingEasy  is an app  Food easy  that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
 
 
 
