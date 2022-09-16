@@ -7,7 +7,12 @@ MakingEasy  is an app  Food easy  that makes making food easier and gives you fu
 ## Screenshots
 ![PIC2](https://user-images.githubusercontent.com/101570374/189524468-8cb81e37-b554-4ff9-a4bb-e292ceae8080.jpg)
 
+
+
+
+
 ![yet3](https://user-images.githubusercontent.com/101570374/190603413-e75a5eee-786f-47f7-957d-624e0e9f9f2e.jpg)
+
 
 
 
